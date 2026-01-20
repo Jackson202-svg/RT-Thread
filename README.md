@@ -1,4 +1,5 @@
 # Simple Responsive Website 🌐
+[![Deploy to GitHub Pages](https://github.com/Jackson202-svg/RT-Thread/actions/workflows/deploy.yml/badge.svg)](https://github.com/Jackson202-svg/RT-Thread/actions/workflows/deploy.yml)
 
 A beginner-friendly project demonstrating how to build a website with a functional navigation bar using HTML, CSS, and Vanilla JavaScript.
 
