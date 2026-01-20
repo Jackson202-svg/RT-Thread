@@ -1,22 +1,25 @@
-# Simple Responsive Website 🌐
+# 🌐 RT-Thread Multi-Page Website 
+![Deploy to GitHub Pages](https://github.com/Jackson202-svg/RT-Thread/actions/workflows/deploy.yml/badge.svg)
 
-A beginner-friendly project demonstrating how to build a website with a functional navigation bar using HTML, CSS, and Vanilla JavaScript.
+A professional, responsive multi-page website template built with **Vanilla HTML, CSS, and JavaScript**. 
 
-## Features
-* **Responsive Navbar:** Works on desktops, tablets, and mobile phones.
-* **Clean UI:** Modern design using CSS Flexbox.
-* **Interactive Mobile Menu:** JavaScript-powered toggle for small screens.
+## 🚀 Live Demo
+Check out the live site here: [https://jackson202-svg.github.io/RT-Thread/](https://jackson202-svg.github.io/RT-Thread/)
 
-## How to Use
-1.  **Clone the repository:**
-    `git clone https://github.com/yourusername/your-repo-name.git`
-2.  **Open the project:**
-    Simply open `index.html` in your favorite browser.
+## 📁 Repository Structure
+* **index.html** - Home page with hero section.
+* **about.html** - Project background and details.
+* **services.html** - Grid-based layout showcasing features.
+* **contact.html** - Functional UI for user inquiries.
+* **style.css** - Global styles and mobile-first media queries.
+* **script.js** - Navigation logic and UI interactivity.
 
-## Tech Stack
-* **HTML5:** Semantic structure.
-* **CSS3:** Custom styling and responsiveness.
-* **JavaScript:** DOM manipulation for the menu.
+## 🛠️ Features
+- [x] **Mobile First:** Fully responsive design.
+- [x] **CI/CD:** Automatic deployment via GitHub Actions.
+- [x] **Clean Code:** Commented sections for easy learning.
+- [x] **Interactive UI:** Animated hamburger menu.
 
-## Author
-* Your Name - [Your GitHub Profile](https://github.com/yourusername)
+## 💻 How to Run Locally
+1. Clone the repo: `git clone https://github.com/Jackson202-svg/RT-Thread.git`
+2. Open `index.html` in your browser.
