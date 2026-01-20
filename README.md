@@ -2,6 +2,8 @@
 
 [![Deploy to GitHub Pages](https://github.com/Jackson202-svg/RT-Thread/actions/workflows/deploy.yml/badge.svg)](https://github.com/Jackson202-svg/RT-Thread/actions/workflows/deploy.yml)
 
+![Website Preview](preview.png)
+
 Welcome to the **RT-Thread** project! This repository is designed to teach beginners how to build a professional, multi-page website from scratch using the core pillars of web development.
 
 ## 🔗 Live Project
