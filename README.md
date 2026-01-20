@@ -18,3 +18,9 @@ The core logic relies on the `toLocaleString` method, which allows us to pass a 
 
 ```javascript
 date.toLocaleString("en-US", { timeZone: "America/New_York" });
+
+Issue,Likely Cause,Solution
+Clock is stuck,setInterval is missing or the function name is misspelled.,"Check that setInterval(updateTime, 1000) is at the bottom of your script."
+Wrong Time,The zone string is incorrect.,"Use standard IANA names (e.g., America/New_York, not NYC)."
+Blank Screen,JavaScript error before the loop.,Open Browser Console (F12) to check for syntax errors like missing commas.
+CSS not loading,Incorrect file path.,"Ensure <link rel=""stylesheet"" href=""style.css""> matches your filename exactly."
