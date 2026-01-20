@@ -1,5 +1,5 @@
 # 🌐 RT-Thread Multi-Page Website 
-![Deploy to GitHub Pages](https://github.com/Jackson202-svg/RT-Thread/actions/workflows/deploy.yml/badge.svg)
+![Deploy to GitHub Pages][(https://github.com/Jackson202-svg/RT-Thread/actions/workflows/deploy.yml/badge.svg)](https://jackson202-svg.github.io/RT-Thread/)
 
 A professional, responsive multi-page website template built with **Vanilla HTML, CSS, and JavaScript**. 
 
